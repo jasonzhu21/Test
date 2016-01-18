@@ -1,3 +1,2 @@
 # Test
-This is a test
-This is a test after it changed
+This is a test after it was changed.
